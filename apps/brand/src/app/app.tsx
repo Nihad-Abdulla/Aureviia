@@ -7,7 +7,7 @@ import { Route, Routes, Link } from 'react-router-dom';
 export function App() {
   return (
     <div>
-      <NxWelcome title="@aureviia/aureviia" />
+      <NxWelcome title="@aureviia/brand" />
 
       {/* START: routes */}
       {/* These routes and navigation have been generated for you */}

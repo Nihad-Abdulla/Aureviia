@@ -4,13 +4,13 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig(() => ({
   root: __dirname,
-  cacheDir: '../../node_modules/.vite/apps/aureviia',
+  cacheDir: '../../node_modules/.vite/apps/brand',
   server: {
-    port: 4200,
+    port: 4201,
     host: 'localhost',
   },
   preview: {
-    port: 4300,
+    port: 4201,
     host: 'localhost',
   },
   plugins: [react()],

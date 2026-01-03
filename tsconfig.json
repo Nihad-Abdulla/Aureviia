@@ -4,7 +4,37 @@
   "files": [],
   "references": [
     {
-      "path": "./apps/aureviia"
+      "path": "./apps/admin"
+    },
+    {
+      "path": "./apps/web"
+    },
+    {
+      "path": "./apps/brand"
+    },
+    {
+      "path": "./apps/marketing"
+    },
+    {
+      "path": "./apps/api"
+    },
+    {
+      "path": "./libs/ui"
+    },
+    {
+      "path": "./libs/utils"
+    },
+    {
+      "path": "./libs/types"
+    },
+    {
+      "path": "./libs/db"
+    },
+    {
+      "path": "./libs/data-access"
+    },
+    {
+      "path": "./libs/hooks"
     }
   ]
 }
